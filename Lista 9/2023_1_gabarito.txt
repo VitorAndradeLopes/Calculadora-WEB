@@ -1,0 +1,8 @@
+Matematica,3,b,b,d,a,e,c,d,e,c,e
+Fisica,2,c,b,e,b,b,e,a,d,c,b
+Quimica,2,d,b,b,e,a,c,b,c,b,c
+Portugues,2,c,a,a,c,a,e,b,d,b,a
+Ingles,1,b,b,c,a,a,a,b,e,c,e
+Biologia,1,c,c,b,b,a,a,d,d,b,e
+Historia,1,c,a,b,a,d
+Geografia,1,e,a,d,d,b

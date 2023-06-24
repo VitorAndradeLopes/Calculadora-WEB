@@ -1,0 +1,2 @@
+Matematica,2,c,d,d,a,c,a,d,e,c,e
+Fisica,1,a,b,d,e,d,b,a,d,b,c
